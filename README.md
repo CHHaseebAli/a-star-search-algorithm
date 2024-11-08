@@ -37,3 +37,9 @@ The project demonstrates how to efficiently navigate a grid, avoiding obstacles 
 The Manhattan Distance is a simple heuristic that calculates the sum of the horizontal and vertical distances between two points on a grid, making it suitable for grid-based pathfinding. The formula is:
 
 h = |x2 - x1| + |y2 - y1|
+
+### Key Steps to Follow:
+1. **Clone the repository**
+2. Open the project in **NetBeans** and run the `Main.java` file to start visualizing the A* algorithm.
+
+
